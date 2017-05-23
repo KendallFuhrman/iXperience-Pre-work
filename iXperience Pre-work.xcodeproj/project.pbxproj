@@ -146,6 +146,7 @@
 				TargetAttributes = {
 					6FB5F7901ECF6FDC00471AD4 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 866JLEMQEN;
 						ProvisioningStyle = Automatic;
 					};
 					6FB5F7A41ECF6FDC00471AD4 = {
@@ -341,6 +342,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 866JLEMQEN;
 				INFOPLIST_FILE = "iXperience Pre-work/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "kendall.fuhrman.com.iXperience-Pre-work";
@@ -353,6 +355,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 866JLEMQEN;
 				INFOPLIST_FILE = "iXperience Pre-work/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "kendall.fuhrman.com.iXperience-Pre-work";

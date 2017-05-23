@@ -10,7 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
+    @IBOutlet var myLabel: UILabel!
+    
+   
+
+    @IBAction func myButtonPressed(_ sender: Any) {
+        myLabel.text = "Congrats you tapped the button!"
+    }
+        override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
